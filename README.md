@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Data Scientist** with 5 years of experience in tra
 ## 👨‍💻 About Me  
 - 🧠 Passionate about solving challenging problems with data.  
 - 📊 Skilled in machine learning, data visualization, and statistical modeling.  
-- 💡 Contributor on Kaggle, constantly exploring new datasets and sharing projects.  
+- 💡 Expert on Kaggle, constantly exploring new datasets and sharing projects.  
 - 🌱 Currently diving deeper into MLOps and deploying AI applications.  
 
 ## 🛠️ Technologies & Tools  
